@@ -11,3 +11,9 @@
 역할 : 회원관리 전반을 담당했습니다. 소셜 로그인, 회원정보 수정, 비밀번호 수정, 학생 회원의 수강정보조회, 결제내역을 맡았으며 DB 모델링 툴 작업도 같이 진행했습니다.
 
 ⇒ 학원 평가과정에서 대상을 수상하였습니다.
+
+![image](https://github.com/mkari99/talktok/assets/95588307/37c6e03c-e3e1-4267-a3ca-80ae7f488f74)
+![image](https://github.com/mkari99/talktok/assets/95588307/42663f74-28f9-4144-80b4-4863c6a68bde)
+![image](https://github.com/mkari99/talktok/assets/95588307/409e47fa-dd68-4246-96e9-5eb0baa4c83f)
+![image](https://github.com/mkari99/talktok/assets/95588307/06983a08-9df6-4e4e-b2d3-5037040b7c92)
+![image](https://github.com/mkari99/talktok/assets/95588307/4770bce6-e64c-4d5b-8d81-7ad91ee9bf78)
